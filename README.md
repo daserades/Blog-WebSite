@@ -1,2 +1,2 @@
 # Blog-WebSite
-.Net Core 5
+.Net Core 5 with Interactive Blog Site
