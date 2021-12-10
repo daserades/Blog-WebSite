@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elifk\\source\\repos\\BlogWebSite\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\elifk\\Desktop\\Blog-WebSite\\BlogWebSite\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elifk\\source\\repos\\BlogWebSite\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\elifk\\Desktop\\Blog-WebSite\\BlogWebSite\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elifk\\source\\repos\\BlogWebSite\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\elifk\\Desktop\\Blog-WebSite\\BlogWebSite\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\elifk\\source\\repos\\BlogWebSite\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "C:\\Users\\elifk\\Desktop\\Blog-WebSite\\BlogWebSite\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\elifk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elifk\\source\\repos\\BlogWebSite\\CoreLayer\\obj\\",
+        "outputPath": "C:\\Users\\elifk\\Desktop\\Blog-WebSite\\BlogWebSite\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elifk\\AppData\\Roaming\\NuGet\\NuGet.Config",

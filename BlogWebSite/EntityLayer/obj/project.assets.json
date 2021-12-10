@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elifk\\source\\repos\\BlogWebSite\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\elifk\\Desktop\\Blog-WebSite\\BlogWebSite\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\elifk\\source\\repos\\BlogWebSite\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\elifk\\Desktop\\Blog-WebSite\\BlogWebSite\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\elifk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elifk\\source\\repos\\BlogWebSite\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\elifk\\Desktop\\Blog-WebSite\\BlogWebSite\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elifk\\AppData\\Roaming\\NuGet\\NuGet.Config",
