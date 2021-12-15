@@ -12,7 +12,7 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=(localdb)\\MSSQLLocalDB; database=CoreBlogDb; " +
+            optionsBuilder.UseSqlServer("server=DESKTOP-S1JVCCH\\SQLEXPRESS; database=CoreBlogDb; " +
                 "integrated security=true;");
 
         }

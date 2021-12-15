@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "O/h4LPyDysYF9TyPtSmleTrBVBcemdPVY1LuXYBU/inFRtPo9VjbBV0LPElXXtNw+7vVNABrVdET5nS7kn9huw==",
+  "dgSpecHash": "QH6J+A6ShvwmhXNEi1qH7n4RT0r+b1bLAybNrWSPvGUZl4QEz8yl8smhKydMuE5mxALpzoT5JtxnSgFGWv5Msw==",
   "success": true,
   "projectFilePath": "C:\\Users\\elifk\\Desktop\\Blog-WebSite\\BlogWebSite\\BlogWebSite\\BlogWebSite.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\elifk\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\elifk\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\elifk\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\elifk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elifk\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\elifk\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
