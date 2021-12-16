@@ -286,3 +286,4 @@ C:\Users\elifk\Desktop\Blog-WebSite\BlogWebSite\BlogWebSite\bin\Debug\net5.0\Flu
 C:\Users\elifk\Desktop\Blog-WebSite\BlogWebSite\BlogWebSite\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\elifk\Desktop\Blog-WebSite\BlogWebSite\BlogWebSite\obj\Debug\net5.0\BlogWebSite.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\elifk\Desktop\Blog-WebSite\BlogWebSite\BlogWebSite\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\elifk\Desktop\Blog-WebSite\BlogWebSite\BlogWebSite\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
